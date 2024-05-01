@@ -27,3 +27,13 @@ Wrap the desired 3D object or mesh with the PresentationControls component.
 Adjust the properties (global, polar, azimuth, config, snap) according to your presentation needs.
 
 Run your application to see the presentation controls in action.
+
+Run this followed commands:
+
+``` terminal
+# Install dependencies (only the first time)
+npm install @react-three/fiber
+npm install @react-three/drei
+
+# Run the local server at http://localhost:3000/
+npm start
